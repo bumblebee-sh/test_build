@@ -1,4 +1,4 @@
-name: Gh-Pages
+name: Gh_Pages
 
 on:
   push:
